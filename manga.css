@@ -1,0 +1,57 @@
+html , body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Sigmar', cursive;
+    font-family: 'Texturina', serif;
+    }
+
+.flex{
+    display: flex;
+    }
+.container{
+    margin:  13px;
+    padding-left: 0 25px;
+    padding-right: 0 25px;
+
+}
+.homeimg{
+    width: 96vw;
+    height:15vw;
+    margin:0;
+    padding: 0;
+}
+.homeimg1{
+    width: 96vw;
+    height:9vw;
+    margin:0;
+    padding: 0;
+}
+.homeimg2{
+    WIDTH:96VW;
+    margin:0;
+    padding: 0;
+}
+.design{
+        background-color: black;
+        color: white;
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 2px;
+        padding-top: 2px;
+        width: 96vw;
+        height: 5vw;
+        margin:0;
+}
+.font{
+ font-size: 35px;
+ text-align: center;
+ padding: 0;
+ font-family: 'Sigmar', cursive;
+    font-family: 'Texturina', serif;
+}
+.section9{
+  height: 23vw;
+  padding-left: 0 25px;
+    padding-right: 0 25px;
+
+}
